@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "X6uI+LlReYvrxv8r3gt9Yueq3+ofD2eT1TaaXE1J1EKC+2003AzblDc+5d1Y0vJ4wPuSmJRB5+CzBRybLWbnrw==",
+  "dgSpecHash": "ITQx+oQsKJiUdVKqKc7LEXZwBCTtcZLT5gNSJGn1CLLdvB2i9I30ibiKCg7sU7x58OVEY7KS8HltgoAtbSit+Q==",
   "success": true,
   "projectFilePath": "A:\\EntityFramework_Core6_Fundamentals\\BookPublisher\\PublisherData\\PublisherData.csproj",
   "expectedPackageFiles": [
