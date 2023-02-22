@@ -1,0 +1,15 @@
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\bin\Debug\net6.0\PublisherData.deps.json
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\bin\Debug\net6.0\PublisherData.dll
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\bin\Debug\net6.0\PublisherData.pdb
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\bin\Debug\net6.0\PublisherDomain.dll
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\bin\Debug\net6.0\PublisherDomain.pdb
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\PublisherData.csproj.AssemblyReference.cache
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfoInputs.cache
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfo.cs
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CoreCompileInputs.cache
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CopyComplete
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\PublisherData.dll
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\refint\PublisherData.dll
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\PublisherData.pdb
+A:\EntityFramework_Core6_Fundamentals\BookPublisher\PublisherData\obj\Debug\net6.0\ref\PublisherData.dll
